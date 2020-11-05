@@ -13,7 +13,7 @@ namespace TokunboCars
 
             Cars car = new Cars();
 
-            Console.WriteLine("Welcome to James Stuart’s Cool “Dealers Car” Autos!(show, list, or add)" );
+            Console.WriteLine("This is WittyPearl's Autos!(show, list, or add)" );
             string Dealer = Console.ReadLine();
 
 
