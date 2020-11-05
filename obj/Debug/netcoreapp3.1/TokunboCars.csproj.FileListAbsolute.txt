@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\bin\Debug\netcoreapp3.1\TokunboCars.exe
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\bin\Debug\netcoreapp3.1\TokunboCars.deps.json
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\bin\Debug\netcoreapp3.1\TokunboCars.runtimeconfig.json
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\bin\Debug\netcoreapp3.1\TokunboCars.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\bin\Debug\netcoreapp3.1\TokunboCars.dll
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\bin\Debug\netcoreapp3.1\TokunboCars.pdb
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.dll
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.pdb
+C:\CodebitsAcademy\C#\LabTask7\TokunboCars\obj\Debug\netcoreapp3.1\TokunboCars.genruntimeconfig.cache
